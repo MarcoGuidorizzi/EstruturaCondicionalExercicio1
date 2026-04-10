@@ -2,7 +2,7 @@
 
 Este programa calcula a nota final de um aluno com base nos resultados de dois semestres e determina o status de aprovação. O projeto foi expandido para oferecer uma experiência de uso contínua e suporte a padrões internacionais.
 
-## 📝 O Desafio Original
+## O Desafio Original
 O enunciado solicitava um programa básico para:
 * Ler duas notas do aluno.
 * Mostrar a nota final formatada com uma casa decimal.
